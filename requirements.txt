@@ -1,0 +1,5 @@
+brian2
+numpy
+matplotlib
+scipy
+neurodynex3
