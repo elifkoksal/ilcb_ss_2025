@@ -3,5 +3,4 @@ numpy
 matplotlib
 scipy
 neurodynex3==1.0.4
-time
 os
